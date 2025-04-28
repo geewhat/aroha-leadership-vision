@@ -30,7 +30,7 @@ const Hero = () => {
           <div className="order-1 md:order-2 opacity-0 animate-fade-up stagger-2">
             <div className="bg-white p-3 rounded-lg shadow-lg transform md:rotate-2">
               <img 
-                src="https://images.unsplash.com/photo-1574607383476-f517f260d30b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
+                src="/lovable-uploads/37c3e9e6-e878-4def-a240-b927b10327a0.png"
                 alt="Christine Wattie, Leadership Coach" 
                 className="rounded-md w-full h-auto object-cover"
               />
